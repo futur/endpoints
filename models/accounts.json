@@ -1,0 +1,24 @@
+{
+    "useruid": 9009,
+    "username": "premk475",
+    "accounts": [
+        {
+            "name": "My Savings",
+            "accountno": 4756767600099009,
+            "type": "S",
+            "branch": "Indira Nagar,Bangalore",
+            "currency": "INR",
+            "availablebal": 174897.55,
+            "lasttrans": 1000.00
+        },
+        {
+            "name": "My Card",
+            "accountno": 4756898900099009,
+            "type": "CC",
+            "branch": "Indira Nagar,Bangalore",
+            "currency": "INR",
+            "availablebal": 45897,
+            "lasttrans": 15.25
+        }
+    ]
+}
